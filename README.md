@@ -1,6 +1,6 @@
 # discord_bot PYTHON
 If you want to add this bot to your server, open this link: https://discord.com/api/oauth2/authorize?client_id=796073392415572049&permissions=6425602&scope=bot  
-Se quiser adicionar esse bot ao seu servidor, abra este link: https://discord.com/api/oauth2/authorize?client_id=796073392415572049&permissions=6425602&scope=bot
+Se quiser adicionar esse bot ao seu servidor, abra este link: https://discord.com/api/oauth2/authorize?client_id=796073392415572049&permissions=6425602&scope=bot  
 Logo após adicionar o bot no servidor, utilize o comando !help para checar os comandos existentes.  
 After adding the bot to you server, use the !help command to check the existing commands and their info. I'm afraid the info will be all in Portuguese so if you are not a PT-BR person better open an translation software.  
 
