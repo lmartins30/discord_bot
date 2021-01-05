@@ -10,7 +10,7 @@ For this file work you need to put on the same folder an .env file with the foll
   DISCORD_TOKEN = 'your token here'   
 
 Putting your own discord token where it is signed above.
-This bot, at this point, has only 4 features. 1- Coin toss. 2- Random Brooklin 99 phrase. 3- Poll. 4- Test Message.
+This bot, at this point, has only 4 features. 1- Coin toss. 2- Random Brooklin 99 phrase. 3- Poll. 4- Test Message.  
 1- Throw a coin and return heads or tails.  
 2- Some random Brooklin 99 phrases.  
 3- Poll where you can choose how many numbers will be picked and how many will be in the poll  
