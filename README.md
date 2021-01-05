@@ -9,7 +9,7 @@ For this file work you need to put on the same folder an .env file with the foll
   
     DISCORD_TOKEN = 'your token here'   
 
-Putting your own discord token where it is signed above.
+Putting your own discord token where it is signed above.  
 This bot, at this point, has only 4 features. 1- Coin toss. 2- Random Brooklin 99 phrase. 3- Poll. 4- Test Message.  
 1- Throw a coin and return heads or tails.  
 2- Some random Brooklin 99 phrases.  
@@ -23,7 +23,7 @@ Para esse arquivo funcionar, é necessário um arquivo .env na mesma pasta que e
 
     DISCORD_TOKEN = 'your token here' 
 
-E adicionar o seu próprio código do discord, onde sinalizado acima.
+E adicionar o seu próprio código do discord, onde sinalizado acima.  
 Nesse ponto, o bot possui apenas 4 comandos. 1- Lançamento de moeda. 2- Frases Brooklin 99. 3-Sorteio. 4- Mensagem teste.  
 1- Lança uma moeda e retorna cara ou coroa.  
 2- Frases aleatórias de Brooklin 99.  
