@@ -4,7 +4,7 @@ Se quiser adicionar esse bot ao seu servidor, abra este link: https://discord.co
 
 
 Eng.  
-This file is still very raw, for a more updated one look for me on twitter.com/lmartins30_ or Mart#2424 on discord  
+This file is still very raw, for a more updated one look for me on twitter.com/lmartins30_ or Mart#2424 on discord    
 For this file work you need to put on the same folder an .env file with the following:   
   
     DISCORD_TOKEN = 'your token here'   
@@ -18,7 +18,7 @@ This bot, at this point, has only 4 features. 1- Coin toss. 2- Random Brooklin 9
 Obs. For those who don't speak Portuguese, heads = Cara and tails = Coroa.
 
 Pt-Br  
-Esse arquivo ainda está bem cru, se desejar um mais atualizado me procure no twittter.com/lmartins30_ or Mart#2424 no discord.
+Esse arquivo ainda está bem cru, se desejar um mais atualizado me procure no twittter.com/lmartins30_ or Mart#2424 no discord.  
 Para esse arquivo funcionar, é necessário um arquivo .env na mesma pasta que ele está localizado com o seguinte conteúdo:
 
     DISCORD_TOKEN = 'your token here' 
