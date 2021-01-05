@@ -1,29 +1,26 @@
 # discord_bot PYTHON
-If you want to add this bot to your server, open this link: https://discord.com/api/oauth2/authorize?client_id=796073392415572049&permissions=6425602&scope=bot
+If you want to add this bot to your server, open this link: https://discord.com/api/oauth2/authorize?client_id=796073392415572049&permissions=6425602&scope=bot  
 Se quiser adicionar esse bot ao seu servidor, abra este link: https://discord.com/api/oauth2/authorize?client_id=796073392415572049&permissions=6425602&scope=bot
 
 
-Eng.
-This file is still very raw, for a more updated one look for me on twitter.com/lmartins30_ or Mart#2424 on discord
-For this file work you need to put on the same folder an .env file with the following: 
-
-  # .env
-  DISCORD_TOKEN = 'your token here' 
+Eng.  
+This file is still very raw, for a more updated one look for me on twitter.com/lmartins30_ or Mart#2424 on discord  
+For this file work you need to put on the same folder an .env file with the following:   
+  
+  DISCORD_TOKEN = 'your token here'   
 
 Putting your own discord token where it is signed above.
 This bot, at this point, has only 4 features. 1- Coin toss. 2- Random Brooklin 99 phrase. 3- Poll. 4- Test Message.
-1- Throw a coin and return heads or tails.
-2- Some random Brooklin 99 phrases.
-3- Poll where you can choose how many numbers will be picked and how many will be in the poll
-4- !Teste returns teste from the bot.
+1- Throw a coin and return heads or tails.  
+2- Some random Brooklin 99 phrases.  
+3- Poll where you can choose how many numbers will be picked and how many will be in the poll  
+4- !Teste returns teste from the bot.  
 Obs. For those who don't speak Portuguese, heads = Cara and tails = Coroa.
 
-Pt-Br
+Pt-Br  
 Esse arquivo ainda está bem cru, se desejar um mais atualizado me procure no twittter.com/lmartins30_ or Mart#2424 no discord.
 Para esse arquivo funcionar, é necessário um arquivo .env na mesma pasta que ele está localizado com o seguinte conteúdo:
 
-
-  # .env
   DISCORD_TOKEN = 'your token here' 
 
 E adicionar o seu próprio código do discord, onde sinalizado acima.
